@@ -1,0 +1,11 @@
+{ "name": "debian/buster64",
+  "versions": [
+    {
+      "version": "10.4.0",
+      "providers": [
+        { "name": "virtualbox",
+          "url": "https://qiniu.wuchuheng.com/vagrantMirrors/debian/4d7865da-6242-4853-bc6c-807a63c734e6"
+        }]
+    }
+  ]
+}
