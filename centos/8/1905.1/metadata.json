@@ -1,0 +1,11 @@
+{ "name": "centos/8",
+  "versions": [
+    {
+      "version": "1905.1",
+      "providers": [
+        { "name": "virtualbox",
+          "url": "https://qiniu.wuchuheng.com/vagrant-mirrors/CentOS-8-Vagrant-8.0.1905-1.x86_64.vagrant-virtualbox.box"
+        }]
+    }
+  ]
+}
